@@ -3,9 +3,10 @@
 <br/>
 <h3><strong>What is Data Structure</strong></h3>
 🚩Way to organize data so that we can use this data efficiently.
+
 📝 Example:
 
-```
+```js
 //unoganized data
 [8,2,1,,0,4,3,7,8]
 
