@@ -1,7 +1,7 @@
-#DSA
-
-
-##What is Data Structure
+<p align="center"><strong>#DSA</strong></p>
+<hr/>
+<br/>
+<p align="center"><strong>What is Data Structure</strong></p>
 🚩Way to organize data so that we can use this data efficiently.
 📝 Example:
 
