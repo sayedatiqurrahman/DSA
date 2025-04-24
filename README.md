@@ -39,3 +39,8 @@ console.log(organizedData)
 //output
 [1,2,3,4,5,6,7,8]
 ```
+
+
+
+Data structures type:
+![image](https://github.com/user-attachments/assets/8e19d708-b52c-4dc3-b22a-2c55a4092d65)
