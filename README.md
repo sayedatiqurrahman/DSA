@@ -134,12 +134,17 @@ Examples or HW Answer:
   </head>
   <body>
     <div>
+
+<!-- Traserving section html -->
       <p>My List of Arr</p>
       <div  id ="arrList"></div>
 
       </div>
     </div>
 
+
+
+<!-- Accessing value -->
     <div style="margin-top: 10px; display: flex; justify-content: center;">
       <input type="text" id="index" placeholder="Enter index" />
       <button id="btn">Get Value</button>
