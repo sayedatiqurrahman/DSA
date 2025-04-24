@@ -1,7 +1,7 @@
-<p align="center"><strong>#DSA</strong></p>
+<h1 align="center"><strong>#DSA</strong></h1>
 <hr/>
 <br/>
-<p align="center"><strong>What is Data Structure</strong></p>
+<h3 align="center"><strong>What is Data Structure</strong></h3>
 🚩Way to organize data so that we can use this data efficiently.
 📝 Example:
 
