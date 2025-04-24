@@ -1,5 +1,5 @@
 <h1 align="center"><strong>DSA</strong></h1>
-<hr/>
+
 <br/>
 <h4><strong>What is Data Structure</strong></h3>
 🚩Way to organize data so that we can use this data efficiently.
