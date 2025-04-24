@@ -45,7 +45,58 @@ console.log(organizedData)
 <br/><br/>
 
 
-<h4 align="center"><strong>Data structures type:</strong></h3>
+<h4 align="center"><u><strong>Data structures type</strong><u></h3>
 
 ![image](https://github.com/user-attachments/assets/8e19d708-b52c-4dc3-b22a-2c55a4092d65)
 
+
+<br/><br/>
+<hr/>
+<br/><br/>
+
+<h4 align="center"><u><strong>Operation of Data structure</strong><u></h3>
+<u>
+  <li>Traversal</li>
+  <li>Insertion</li>
+  <li>Deletion</li>
+  <li>Searching</li>
+  <li>Sorting</li>
+  <li>Merging</li>
+</u>
+
+Different Algorithm can be use for operations
+
+
+<br/><br/>
+<hr/>
+<br/><br/>
+
+<h4 align="center"><u><strong>Operation of Data structure</strong><u></h3>  
+<u>
+  <li>Array</li>
+  <li>Stack</li>
+  <li>Queue</li>
+  <li>Tree</li>
+  <li>Graph</li>
+  <li>Insertion</li>
+  <li>Recursion</li>
+  <li>Search</li>
+  <li>Sorting</li>
+  <li>Merge</li>
+  <li>Map</li>
+  <li>Set</li>
+</u>
+
+
+<br/><br/>
+<hr/>
+<br/><br/>
+
+<h4 align="center"><u><strong>Logical Part</strong><u></h3>  
+<u>
+  <li>Nested Loopes</li>
+  <li>Low and Highest values</li>
+  <li>Objects</li>
+  <li>Update specific Value</li>
+  <li>Etc</li>
+</u>
