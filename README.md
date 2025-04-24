@@ -100,3 +100,84 @@ Different Algorithm can be use for operations
   <li>Update specific Value</li>
   <li>Etc</li>
 </u>
+
+
+
+<br/><br/>
+<hr/>
+<br/><br/>
+
+<h3><u><strong>Home Work</strong><u></h3>  
+<br/>
+<h4><u><strong>Array Traversing and Accessing</strong><u></h3>  
+<u>
+  <li>Make Html page write basic array</li>
+  <li>Traversing with loop</li>
+  <li>Accessing elements</li>
+  <li>Access element with text input and button validations</li>
+
+</u>
+
+
+<br/>
+Examples or HW Answer:
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+   
+  </head>
+  <body>
+    <div>
+      <p>My List of Arr</p>
+      <div  id ="arrList"></div>
+
+      </div>
+    </div>
+
+    <div style="margin-top: 10px; display: flex; justify-content: center;">
+      <input type="text" id="index" placeholder="Enter index" />
+      <button id="btn">Get Value</button>
+      <p id="result"></p>
+
+ <script>
+      const arr = [
+        44, 1, 5, 6, 1, 4, 6, 3, 7, 8, 9, 41, 25, 62, 14, 53, 12, 13, 14, 15,
+        16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+      ];
+// traversing with loop
+      for (let i = 0; i < arr.length; i++) {
+        // document.write(`arr index ${i} : ${arr[i]} <br>`);
+     document.getElementById("arrList").innerHTML += `arr index ${i} : ${arr[i]} <br>`;
+
+      }
+    
+      // Access element with text input and button validations
+      document.getElementById("btn").addEventListener("click", async() => {
+        const input = document.getElementById("index").value;
+        console.log(input);
+          if(parseInt(input) >= 0 && parseInt(input) < arr.length && !isNaN(parseInt(input))){
+              alert(`arr index ${input} : ${arr[input]}`); {
+               const errInput= await prompt(`please enter a valid index under ${arr.length}`);
+            if(errInput >= 0 && errInput < arr.length && !isNaN(errInput)){
+                alert(`arr index ${errInput} : ${arr[errInput]}`);}
+            else {
+                 const reErrInput= await prompt(`please enter a valid index under ${arr.length}`);
+                    alert(`arr index ${reErrInput} : ${arr[reErrInput]}`);
+                  }
+            }
+            }
+        });
+        
+    </script>
+
+  </body>
+</html>
+
+
+```
+
