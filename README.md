@@ -46,4 +46,6 @@ console.log(organizedData)
 
 
 <h4 align="center"><strong>Data structures type:</strong></h3>
+
 ![image](https://github.com/user-attachments/assets/8e19d708-b52c-4dc3-b22a-2c55a4092d65)
+
