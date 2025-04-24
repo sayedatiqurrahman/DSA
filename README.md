@@ -121,8 +121,8 @@ Different Algorithm can be use for operations
 
 <br/>
 Examples or HW Answer:
-```html
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
